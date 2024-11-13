@@ -27,12 +27,4 @@ body {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    display: none; /* Hide initially */
-}
-
-/* Quiz Box */
-.quiz_box {
-    background: #fff;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 0 10
+    display: none; /* Hide initially
