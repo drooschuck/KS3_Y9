@@ -382,3 +382,12 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
+/* 576 768 992 */
+@media only screen and (max-width: 992px) {
+  .container {
+    padding: 0 2em;
+  }
+  .fas .fa-moon {
+    color: #fca311;
+  }
