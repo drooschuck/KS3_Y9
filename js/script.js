@@ -65,6 +65,8 @@ quit_quiz.onclick = ()=>{
     window.location.reload(); //reload the current window
 }
 
+let questions = qa_y7_maths;
+    
 const next_btn = document.querySelector("footer .next_btn");
 const bottom_ques_counter = document.querySelector("footer .total_que");
 
