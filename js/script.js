@@ -106,15 +106,15 @@ function showQuetions(index){
     
     const option = option_list.querySelectorAll(".option");
 
-    // set onclick attribute to all available options
-    //for(let i = 0; i < option.length; i++){
-      //  option[i].setAttribute("onclick", "optionSelected(this)");
-    //}
+     set onclick attribute to all available options
+    for(i = 0; i < option.length; i++){
+        option[i].setAttribute("onclick", "optionSelected(this)");
+    }
     
      // Set onclick attribute to all available options using event listeners
-    option.forEach((opt) => {
-        opt.addEventListener("click", () => optionSelected(opt));
-    });
+    //option.forEach((opt) => {
+        //opt.addEventListener("click", () => optionSelected(opt));
+   // });
 }
 // creating the new div tags which for icons
 let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
