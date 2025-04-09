@@ -220,3 +220,5 @@ let questions = [
     ]
   }
 ];
+
+export { questions };
