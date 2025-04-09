@@ -1,2 +1,3 @@
 IQuiz-App-Vanila-JS
-[Live link](https://iq-vjs.onrender.com/)
+[Live link](https://ks3-y9.netlify.app/)
+
