@@ -1,5 +1,5 @@
 // Import questions from external JavaScript file
-import { questions } from '../data/Y9_Math_Qs.js'; // Adjust the path as necessary
+import { questions } from '../data/Y9_CS_Qs.js'; // Adjust the path as necessary
 
 //selecting all required elements
 const start_btn = document.querySelector(".start_btn button");
