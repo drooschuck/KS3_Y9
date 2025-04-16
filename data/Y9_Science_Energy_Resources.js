@@ -13,7 +13,7 @@ let questions = [
   {
     numb: 2,
     question: "What is the basic principle of how a power station works?",
-    answer: "It converts energy from fuel into electricity.",
+    answer: "It converts energy from fuel into electricity",
     options: [
       "It stores energy for later use",
       "It converts energy from fuel into electricity",
