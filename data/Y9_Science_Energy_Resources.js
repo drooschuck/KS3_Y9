@@ -148,7 +148,7 @@ let questions = [
     answer: "It provides clarity and precision in conveying complex concepts.",
     options: [
       "It makes ideas more confusing",
-      "It provides clarity and precision",
+      "It provides clarity and precision in conveying complex concepts.",
       "It is unnecessary for scientific discussions",
       "It simplifies all concepts"
     ]
