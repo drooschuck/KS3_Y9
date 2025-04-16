@@ -13,7 +13,7 @@ let questions = [
   {
     numb: 2,
     question: "What does the principle of conservation of energy state?",
-    answer: "Energy cannot be created or destroyed, only transformed from one form to another.",
+    answer: "Energy can only be transformed from one form to another.",
     options: [
       "Energy can be created and destroyed.",
       "Energy can only be transformed from one form to another.",
@@ -145,7 +145,7 @@ let questions = [
   {
     numb: 14,
     question: "What is the difference between useful and wasted energy?",
-    answer: "Useful energy is the energy that performs work, while wasted energy is energy that is not used effectively.",
+    answer:  "Useful energy is energy that performs work, while wasted energy is energy that is not used effectively.",
     options: [
       "There is no difference.",
       "Useful energy is energy that performs work, while wasted energy is energy that is not used effectively.",
